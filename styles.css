@@ -1,0 +1,16 @@
+body {
+    font-size:large;
+    display: flex;
+    height: 100vh;
+}
+
+.LHS-container {
+    flex:1;
+    background-color: rgb(103, 173, 82);
+}
+
+.RHS-container {
+    flex:2;
+    justify-content: center;
+    align-items: center;
+}
